@@ -11,7 +11,7 @@
     "@mdi/js": "3.5.95",
     "@mdi/react": "1.1.0",
     "autosuggest-highlight": "^3.1.1",
-    "axios": "0.18.1",
+    "axios": "0.21.1",
     "connected-react-router": "4.4.1",
     "date-fns": "1.30.1",
     "dotenv": "^8.0.0",
