@@ -21,7 +21,7 @@
     "history": "4.9.0",
     "material-ui-dropzone": "^2.3.5",
     "material-ui-pickers": "2.2.4",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "path": "^0.12.7",
     "react": "16.8.6",
     "react-autosuggest": "^9.4.3",
